@@ -40,7 +40,7 @@ In conclusion, machine learning algorithms have a significant role to play in he
 
 ## Contributors
 
-	-Sri Vishnu Priya Sangaraju
-	-Srividya Chekuri
-	-Sai Venkata Ajay Varma Alluri
+	-Prem Deep Lankam Setty
+	-Kuladeep Sai Nallani
+	-Sai Ganesh Takkellapati
 
